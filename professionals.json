@@ -1,0 +1,79 @@
+{
+  "law": [
+    {
+      "id": 8,
+      "name": "Dagpin & Dagpin Law Office",
+      "profession": "Law Office",
+      "category": "Business",
+      "avatar": "DD",
+      "avatarUrl": "https://i.imgur.com/w0N05vz.jpeg",
+      "facebook": "https://www.facebook.com/profile.php?id=61550744120161",
+      "instagram": "https://instagram.com/dagpinrestaurant",
+      "specialty": "Notary Public Services",
+      "type": "business",
+      "location": "G/F B&B Building Capitol Drive, Brgy. Lower Lamac, Oroquieta City",
+      "email": "dagpindagpin@lawoffice.com",
+      "phone": "+63 123 456 7890"
+    }
+  ],
+  "medical": [],
+  "engineering": [],
+  "it": [
+    {
+      "id": 6,
+      "name": "Marcelius Dagpin",
+      "profession": "Full Stack Developer",
+      "category": "IT & Web Development",
+      "avatar": "MD",
+      "avatarUrl": "https://marcelius.dagpin.com/assets/img/marcelius.jpg?h=8378385473f739587996fd4addc88216",
+      "website": "https://marcelius.dagpin.com",
+      "email": "mgdagpin@gmail.com",
+      "specialty": "Web App Development, Infrastructure, Cloud Architect",
+      "type": "professional",
+      "location": "Dipolog City"
+    },
+    {
+      "id": 6,
+      "name": "Vincent Dagpin",
+      "profession": "Web Developer",
+      "category": "IT & Web Development",
+      "avatar": "VD",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF5XOAGmvFwtA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516780885165?e=1766016000&v=beta&t=xPPlrFXco8ekmYL3XizBN-eGMkASNnY85wiSooEh6hc",
+      "website": "https://vincent.dagpin.com/",
+      "specialty": "Web App Development",
+      "type": "professional",
+      "location": "Dipolog City"
+    }
+  ],
+  "construction": [
+    {
+      "id": 7,
+      "name": "Dagpin's Iron Works",
+      "profession": "Construction & Supplies",
+      "category": "Construction",
+      "avatar": "DIW",
+      "website": "https://dagpinconstruction.com",
+      "facebook": "https://facebook.com/dagpinconst",
+      "specialty": "Residential & Commercial",
+      "type": "business",
+      "location": "Dapitan City"
+    }
+  ],
+  "nursing": [],
+  "government": [],
+  "vlogger": [],
+  "ministry": [
+    {
+      "id": 9,
+      "name": "Rev. Fr. Leonilo Dagpin",
+      "profession": "Catholic Priest",
+      "category": "Ministry",
+      "avatar": "FD",
+      "avatarUrl": "https://scontent.fcgy1-3.fna.fbcdn.net/v/t39.30808-1/528770389_1306304034838667_9013963639211700213_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=aRdvWle6uPIQ7kNvwHdUNs2&_nc_oc=AdmWdpyr4mAyccjKjwtYX1BYV9fD8qrIQyhvea4pQ0ij4ADXmptW55XXPFXSuqnmJg4&_nc_zt=24&_nc_ht=scontent.fcgy1-3.fna&_nc_gid=AdPsFXNn-IZVQLj2baPDvg&oh=00_Afi3eHHuMMk_kMHnAnotGlaxJDOV4Uu98AMw6QqvbBCs5A&oe=692E355C",
+      "specialty": "Parish Priest at Our Lady of Fatima Parish",
+      "type": "professional",
+      "location": "Dapitan City",
+      "facebook": "https://www.facebook.com/LeoniloAvenidoDagpinJr"
+    }
+  ]
+}
